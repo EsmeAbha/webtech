@@ -1,6 +1,6 @@
 <Html>
     <head>
-        <title>Registration</title>
+        <title>Registration </title>
 
     </head>
     <body>
@@ -106,7 +106,7 @@
                                             <option value="Dhaka">Dhaka</option>
                                             <option value="Delhi">Delhi</option>
                                             <option value="Islambad">Islambad</option>
-                                            <option value="abc">ABC</option>
+                                            <option value="abc">ABCD</option>
                                         </select>
                                         <br>
                                         <br>
